@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="RangeFinder/RangeFinder.csproj" />
+  <Properties Name="ExtensibilityGlobals" Scope="PostLoad">
+    <Property Name="BuildVersion_BuildVersioningStyle" Value="None.None.None.None" />
+    <Property Name="BuildVersion_ConfigurationName" Value="Any" />
+    <Property Name="BuildVersion_DetectChanges" Value="False" />
+    <Property Name="BuildVersion_IncrementBeforeBuild" Value="False" />
+    <Property Name="BuildVersion_ReplaceNonNumerics" Value="False" />
+    <Property Name="BuildVersion_StartDate" Value="2000/1/1" />
+    <Property Name="BuildVersion_UpdateAssemblyVersion" Value="False" />
+    <Property Name="BuildVersion_UpdateFileVersion" Value="False" />
+    <Property Name="BuildVersion_UseGlobalSettings" Value="False" />
+    <Property Name="BuildVersion_UseUniversalClock" Value="False" />
+  </Properties>
+</Solution>
