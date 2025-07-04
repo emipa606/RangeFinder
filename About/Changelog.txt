@@ -1,5 +1,8 @@
 # Changelog for RangeFinder
 
+1.6.3 - Last update, added end-of-life message
+
+
 1.6.2 - Removed redundant harmony-files
 
 

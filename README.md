@@ -4,7 +4,7 @@
 
 Update of Andreas Pardeikes mod https://steamcommunity.com/sharedfiles/filedetails/?id=1332119637
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 

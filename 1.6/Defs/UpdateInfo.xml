@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="RangeFinder_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3503613022</linkUrl>
+		<banner>UpdateInfo/RangeFinder</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="RangeFinder_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>RangeFinder_1_6_2</defName>
+		<date>2025/7/4</date>
+		<content>The original version of this mod has been updated, please use it instead. This version will remain, but unlisted and will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+
